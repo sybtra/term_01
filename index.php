@@ -22,8 +22,8 @@
                    <br><br><br>
 
 
-                 <div class="modifier"><div><a href="modifier.php"><img src="images/modifier.png" width="220" height="200" alt="Logo Modifier"></a></div>
-                 <h3>MODIFIER</h3> </div>
+                 <div class="modifier"><div><img src="images/modifier.png" width="220" height="200" alt="Logo Modifier"></div>
+                 <h3><a href="modifier.php">Modifier</a></h3> </div>
 
                  <div class="supprimer"><div><a href="supprimer.php"><img src="images/supprimer.png" width="256" height="256" alt="Logo Supprimer"></a></div>
                  <h3>SUPPRIMER</h3> </div>
