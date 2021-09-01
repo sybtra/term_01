@@ -26,7 +26,7 @@
                  <h3><a href="modifier.php">Modifier</a></h3> </div>
 
                  <div class="supprimer"><div><a href="supprimer.php"><img src="images/supprimer.png" width="256" height="256" alt="Logo Supprimer"></a></div>
-                 <h3>SUPPRIMER</h3> </div>
+                 <h3><a href="supprimer.php">SUPPRIMER</h3> </div>
 
                  <div class="afficher"><div><a href="liste.php"><img src="images/afficher.png" width="220" height="220" alt="Logo Afficher"></a></div>
                  <h3>AFFICHER</h3> </div>
