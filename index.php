@@ -29,7 +29,7 @@
                  <h3><a href="supprimer.php">SUPPRIMER</h3> </div>
 
                  <div class="afficher"><div><a href="liste.php"><img src="images/afficher.png" width="220" height="220" alt="Logo Afficher"></a></div>
-                 <h3>AFFICHER</h3> </div>
+                 <h3><a href="liste.php">AFFICHER</h3> </div>
                </div>
 
              </section>
